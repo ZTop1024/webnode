@@ -48,12 +48,14 @@ mkdir bin
 
 ### 2.2 修改redis.conf文件
 ```shell
+port 6379 # 138行
+logfile "" # 354行
 #第 309  行
 daemonize no #改为  daemonize yes；yes表示启用守护进程，默认是no即不以守护进程方式运行。其中Windows系统下不支持启用守护进程方式运行
 # 87 行
 bind 127.0.0.1 #改为 直接注释掉（默认 bind 127.0.0.1 只能本机访问）或改为本机IP地址，或者改为 0.0.0.0 (允许任何人连接)
 # 111 行
-protected-mode yes # 改为 protected-mode no；保护模式，该模式控制外部网是否可以连接redis服务，默认是yes,所以默认我们外网是无法访问的，如需外网连接rendis服务则需要将此属性改为no。
+protected-mode yes # 改为 protected-mode no；保护模式，该模式控制外部网是否可以连接redis服务，默认是yes,所以默认我们外网是无法访问的，如需外网连接redis服务则需要将此属性改为no。
 #  1036 行 添加Redis 密码 
 requirepass 123456
 ```

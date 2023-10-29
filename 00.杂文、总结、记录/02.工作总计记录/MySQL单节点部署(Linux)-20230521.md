@@ -120,3 +120,46 @@ firewall-cmd --remove-port=80/tcp --permanent #永久移除80端口放行
 show databases;
 use mysql;
 ```
+
+## 4. Mysql启动、停止、重启常用命令
+### 4.1 启动
+使用`service`启动
+```shell
+service mysqld start #(5.0版本是mysqld)
+service mysql start #(5.5.7版本是mysql)
+```
+
+使用`mysqld`脚本启动
+```shell
+/etc/inint.d/mysqld start
+```
+
+使用`safe_mysqld`启动
+```shell
+safe_mysqld&
+```
+
+### 4.2 停止
+使用`service`停止
+```shell
+service mysqld stop
+```
+
+使用`mysqld`脚本停止
+```shell
+/etc/inint.d/mysqld stop
+```
+
+使用`mysqladmin shutdown`
+
+### 4.3 重启
+使用`service`重启
+```shell
+service mysqld restart
+service mysql restart # (5.5.7版本命令)
+```
+
+使用`mysqld`脚本启动
+```shell
+/etc/init.d/mysqld restart
+```
