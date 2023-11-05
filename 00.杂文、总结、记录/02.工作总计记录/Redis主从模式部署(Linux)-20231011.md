@@ -1,15 +1,18 @@
 # Redis主从模式部署(Linux)
+
 ___
 
 > Redis单体从压缩包解压到编译安装的过程可查看笔记：[Redis单节点部署](Redis单节点部署(Linux)-20231008.md)
 
 ## 部署模式
+
 > 一主一从
 > > 192.168.1.11 master
 > >
 > > 192.168.1.17 slave
 
 ## 主要配置
+
 ```shell
 # 以守护进程的方式运行
 daemonize yes   # 309行
@@ -25,7 +28,9 @@ masterauth <master-password>  #  534行
 ```
 
 ## 验证主从模式启动成功
+
 ### 观察slave节点日志
+
 ```shell
 [root@192 redis]# tail -30 6379.log
 15442:C 12 Oct 2023 11:46:36.241 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
@@ -55,6 +60,7 @@ masterauth <master-password>  #  534行
 ```
 
 ### 观察master节点日志
+
 ```shell
 [root@192 redis]# tail -30 6379.log
 10698:C 12 Oct 2023 11:45:45.861 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
@@ -81,7 +87,9 @@ masterauth <master-password>  #  534行
 ```
 
 ### 使用命令查看
+
 使用`info replication`指令，`connected_slaves:1`说明已经连接上一个从节点
+
 ```shell
 192.168.1.11:6379> info replication
 # Replication
