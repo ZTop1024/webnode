@@ -36,6 +36,9 @@ make MALLOC=libc
 
 ## 2. 安装
 ### 2.1 整理文件
+
+编译后的执行文件在`src`目录下
+
 新建`bin`文件夹，把编译后出现的执行文件和配置文件放到`bin`里
 `mkreleasehdr.sh`  `redis-benchmark`  `redis-check-aof`  `redis-check-rdb`  `redis-cli`  `redis-sentinel`  `redis-server`  `redis-trib.rb`
 ```shell
