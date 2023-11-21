@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md"
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md"
               }
             }
           },
@@ -155,10 +155,12 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "e4b3ca9f65980ace",
+  "active": "1e553ce4ca10c3a6",
   "lastOpenFiles": [
-    "00.杂文、总结、记录/02.工作总结记录/Linux SCP远程拷贝命令-20231105.md",
+    "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
+    "00.杂文、总结、记录/02.工作总结记录/Redis哨兵模式部署(Linux)-20231105.md",
     "00.杂文、总结、记录/02.工作总结记录/Mysql随机生成电话号码、邮箱、中文姓名SQL-20230926.md",
+    "00.杂文、总结、记录/02.工作总结记录/Linux SCP远程拷贝命令-20231105.md",
     "00.杂文、总结、记录/02.工作总结记录/Redis单节点部署(Linux)-20231008.md",
     "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
     "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
@@ -186,8 +188,6 @@
     "01.数据库知识体系/MySQL/004.MySQL InnoDB存储引擎的MVCC实现机制.md",
     "01.数据库知识体系/MySQL/003.MySQL性能优化.md",
     "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
-    "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
-    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf",
-    "docs/README.md"
+    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf"
   ]
 }
