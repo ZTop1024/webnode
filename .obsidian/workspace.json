@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md"
+                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "1e553ce4ca10c3a6",
   "lastOpenFiles": [
+    "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
+    "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
     "00.杂文、总结、记录/02.工作总结记录/Redis单节点部署(Linux)-20231008.md",
     "03.开发框架&中间件/Spring/001.Spring核心之控制反转(IOC).md",
     "03.开发框架&中间件/Spring/file/Spring Bean生命周期流程/Spring Bean生命周期流程.png",
