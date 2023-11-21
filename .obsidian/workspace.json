@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "12b38a9aa696b33d",
+        "id": "2eed26c3fe670524",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb8b3e6c399cd2d",
+            "id": "c4cf85e71c9f6b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfb8b3e6c399cd2d",
+  "active": "c4cf85e71c9f6b96",
   "lastOpenFiles": [
+    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf",
     "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
     "docs/README.md",
     "2023-11-20.md",
@@ -155,7 +148,6 @@
     "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
     "04.开发语言/Java/001.JUC线程池-ThreadPoolExecutor.md",
     "04.开发语言/Java/000线程池需要学习的知识点.md",
-    "04.开发语言/Java/file/JUC线程池-ThreadPoolExecutor/Java线程池原理.png",
-    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf"
+    "04.开发语言/Java/file/JUC线程池-ThreadPoolExecutor/Java线程池原理.png"
   ]
 }
