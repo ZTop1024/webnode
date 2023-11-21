@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
+                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md"
+                "file": "00.杂文、总结、记录/02.工作总结记录/Helm常用指令-20231024.md"
               }
+            }
+          },
+          {
+            "id": "e4b3ca9f65980ace",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,14 +151,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "1e553ce4ca10c3a6",
+  "active": "e4b3ca9f65980ace",
   "lastOpenFiles": [
-    "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
-    "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
+    "00.杂文、总结、记录/02.工作总结记录/Linux SCP远程拷贝命令-20231105.md",
+    "00.杂文、总结、记录/02.工作总结记录/Mysql随机生成电话号码、邮箱、中文姓名SQL-20230926.md",
     "00.杂文、总结、记录/02.工作总结记录/Redis单节点部署(Linux)-20231008.md",
+    "00.杂文、总结、记录/02.工作总结记录/MySQL开启binlog踩坑记录-20231121.md",
+    "00.杂文、总结、记录/02.工作总结记录/MySQL单节点部署(Linux)-20230521.md",
     "03.开发框架&中间件/Spring/001.Spring核心之控制反转(IOC).md",
     "03.开发框架&中间件/Spring/file/Spring Bean生命周期流程/Spring Bean生命周期流程.png",
     "Pasted image 20231121215036.png",
@@ -177,8 +188,6 @@
     "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
     "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
     "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf",
-    "docs/README.md",
-    "2023-11-20.md",
-    "README.md"
+    "docs/README.md"
   ]
 }
