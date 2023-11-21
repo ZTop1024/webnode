@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2eed26c3fe670524",
+        "id": "4a3fbfa4e90b4379",
         "type": "tabs",
         "children": [
           {
-            "id": "c4cf85e71c9f6b96",
+            "id": "1e553ce4ca10c3a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,14 +138,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4cf85e71c9f6b96",
+  "active": "37a96a669cc743c9",
   "lastOpenFiles": [
-    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf",
+    "01.数据库知识体系/Redis/004.Redis事务.md",
+    "01.数据库知识体系/Redis/005.Redis性能调优.md",
+    "01.数据库知识体系/Redis/Redis进阶 - 性能调优：Redis性能调优详解 _ Java 全栈知识体系.pdf",
+    "01.数据库知识体系/Redis/003.Redis持久化：RDB和AOF机制.md",
+    "01.数据库知识体系/Redis/002.Redis使用场景.md",
+    "01.数据库知识体系/Redis/001.Redis常用指令.md",
+    "01.数据库知识体系/MySQL/009.MySQL两阶段提交.md",
+    "01.数据库知识体系/MySQL/008.MySQL查询缓存.md",
+    "01.数据库知识体系/MySQL/007.MySQL Explain之type字段详解.md",
+    "01.数据库知识体系/MySQL/006.MySQL Explain执行计划.md",
+    "01.数据库知识体系/MySQL/005.MySQL事务理论.md",
+    "01.数据库知识体系/MySQL/004.MySQL InnoDB存储引擎的MVCC实现机制.md",
+    "01.数据库知识体系/MySQL/003.MySQL性能优化.md",
+    "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
     "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
+    "02.操作系统/Linux/001.Curl常用指令.md",
+    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf",
     "docs/README.md",
     "2023-11-20.md",
     "README.md",
-    "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
     "04.开发语言/Java/001.JUC线程池-ThreadPoolExecutor.md",
     "04.开发语言/Java/000线程池需要学习的知识点.md",
     "04.开发语言/Java/file/JUC线程池-ThreadPoolExecutor/Java线程池原理.png"
