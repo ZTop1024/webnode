@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +147,7 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "ef024486b1708ee6",
+  "active": "43346bb5baccd1d5",
   "lastOpenFiles": [
     "00.杂文、总结、记录/02.工作总结记录/Git使用指令记录-20231001.md",
     "00.杂文、总结、记录/02.工作总结记录/Docker操作指令备忘-20231004.md",
