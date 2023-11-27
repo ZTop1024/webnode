@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c18234723670fbc",
+        "id": "dd1ba0026bcc3083",
         "type": "tabs",
         "children": [
           {
-            "id": "b276e3d95298e1dd",
+            "id": "ffb35ee8199871e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01.数据库知识体系/MySQL/001.MySQL索引知识.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,10 +146,10 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "5988751c82fbe5b3",
+  "active": "ffb35ee8199871e2",
   "lastOpenFiles": [
-    "Pasted image 20231121215016.png",
     "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
+    "Pasted image 20231121215016.png",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231121215036.png",
     "README.md",
