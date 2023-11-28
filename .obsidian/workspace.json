@@ -157,9 +157,11 @@
   },
   "active": "ffb35ee8199871e2",
   "lastOpenFiles": [
+    "推送脚本.bat",
+    "推送github脚本.bat",
+    "新建 文本文档.txt",
     "推送gitee脚本.bat",
     "推送gitee.bat",
-    "新建 文本文档.txt",
     "04.开发语言/Java/001.JUC线程池-ThreadPoolExecutor.md",
     "file/SpringBoot接口-如何实现接口幂等/token方式实现幂等示意图.md",
     "file/SpringBoot接口-如何实现接口幂等",
@@ -172,7 +174,6 @@
     "03.开发框架&中间件/SpringBoot/001.SpringBoot接口-如何实现接口幂等.md",
     "03.开发框架&中间件/SpringBoot",
     "00.杂文、总结、记录/01.面试问题问答/SpringBoot-怎样实现接口幂等性-20231127.md",
-    "test.bat",
     "01.数据库知识体系/MySQL/001.MySQL索引知识.md",
     "Pasted image 20231121215016.png",
     "conflict-files-obsidian-git.md",
@@ -183,7 +184,6 @@
     "2023-11-20.md",
     "01.数据库知识体系/MySQL/002.MySQL哈希索引原理过程.md",
     "04.开发语言/Java/000线程池需要学习的知识点.md",
-    "04.开发语言/Java/file/JUC线程池-ThreadPoolExecutor/Java线程池原理.png",
-    "05.好文摘抄/Java业务开发常见错误100例-极客时间/00 开篇词 业务代码真的会有这么多坑？.pdf"
+    "04.开发语言/Java/file/JUC线程池-ThreadPoolExecutor/Java线程池原理.png"
   ]
 }
