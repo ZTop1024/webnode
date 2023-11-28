@@ -9,7 +9,7 @@ git add *
 git commit -m "echo %date:~3,10% %time%-%reason%"
 git push gitee master
 echo + ------------- 完成推送gitee仓库 ------------- +
-
+pause
 echo +                     |                        +
 echo ++++++++++++++++++++++++++++++++++++++++++++++++
 echo +                     |                        +
