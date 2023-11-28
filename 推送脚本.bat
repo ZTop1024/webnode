@@ -15,5 +15,6 @@ echo ++++++++++++++++++++++++++++++++++++++++++++++++
 echo + ------------- 开始推送github仓库 ------------- +
 git push github master
 echo + ------------- 完成推送github仓库 ------------- +
+echo %errorlevel%
 
 pause
