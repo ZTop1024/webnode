@@ -6,7 +6,7 @@ set /p reason=输入commit标签：
 
 echo + ------------- 开始推送gitee仓库 ------------- +
 git add *
-git commit -m "echo %date:~3,10% %time%-%reason%"
+git commit -m "%date:~3,10% %time:~0,5%-%reason%"
 git push gitee master
 if %errorlevel% equ 0 (
     echo + ------------- 推送gitee仓库成功 ------------ +
