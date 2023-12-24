@@ -102,7 +102,17 @@ service mysqld start
 
 注意：MySQL初始化时并没有密码，初次登陆需要设置密码
 ```shell
-set password for root@% = password('123456');
+# 1.初始化用户名及密码(仅限本机登录)
+alter user 'root'@'localhost' identified by '123456';
+
+# 2.开放远程登录
+use mysql;
+update user set host='%' where user = 'root';
+## 查看mysql 表
+select user, host from user;
+
+# 3.刷新
+flush privileges;
 ```
 
 ## 3. 其它配置
