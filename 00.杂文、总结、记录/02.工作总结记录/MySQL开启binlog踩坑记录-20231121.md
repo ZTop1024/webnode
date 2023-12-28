@@ -30,7 +30,7 @@ log-bin=/var/lib/mysql/mysql-bin
 server-id=1
 ```
 
-我的配置文件如下
+我的配置文件如下(错误的配置)
 
 ```shell
 [mysqld]
@@ -58,7 +58,7 @@ mysql: [ERROR] unknown variable 'log-bin=mysql-bin'
 
 MySQL配置需要区分挂在`[mysqld]`下还是在`[mysql]`
 
-调整后的配置文件
+调整后的配置文件(正确的配置)
 
 ```shell
 [mysqld]
@@ -67,7 +67,7 @@ basedir=/mysql/database/mysql
 datadir=/mysql/data/mysql
 port=3306
 socket=/tmp/mysql.sock
-log-bin=mysql-bin
+log-bin=/mysql/binlog/mysql-bin  # bin-log日志的地址(最后是bin-log日志文件名)
 server-id=1
 binlog_format=row
 lower_case_table_names = 1
